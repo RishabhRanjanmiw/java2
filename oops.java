@@ -23,7 +23,7 @@ public class oops {
     }
 }
 
-class Complex{
+class Complex2{
     // prop
     int a, b;
     // behaviour
